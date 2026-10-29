@@ -57,6 +57,14 @@ A simple CRUD application built using **ASP.NET MVC, C#, and SQL Server** to man
 <img width="956" height="466" alt="Screenshot 2026-10-29 220721" src="https://github.com/user-attachments/assets/4268d9dd-ca51-44af-802c-5fac661a9dcb" />
 
 
+## 📚Update Student
+
+
+<img width="956" height="466" alt="Screenshot 2026-10-29 221141" src="https://github.com/user-attachments/assets/7b9a7c32-a344-4fa0-abc8-625a14a342da" />
+
+
+
+
 ## 📚Student List
 
 <img width="956" height="443" alt="Screenshot 2026-10-29 220702" src="https://github.com/user-attachments/assets/8416146f-2e2b-476e-b1fc-09df29233b8d" />
